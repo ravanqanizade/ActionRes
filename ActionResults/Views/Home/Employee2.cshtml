@@ -9,8 +9,8 @@
     @foreach (var item in Model.Employees)
     {
         <div>
-            <h1>FirsName: @item.FirstName</h1>
-            <h1>LastName: @item.LastName</h1>
+            <h1>FirsName: @item.Firstname</h1>
+            <h1>LastName: @item.Lastname</h1>
             <div>
                 <span>User Id:@item.Id</span>
             </div>
@@ -21,5 +21,7 @@
     {
         <h3>@item</h3>
     }
+    <a asp-controller="Employee" asp-action="Add">Go to the index action</a>
+
 </body>
 </html>

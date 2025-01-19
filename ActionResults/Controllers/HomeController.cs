@@ -25,22 +25,22 @@ namespace ActionResults.Controllers
                 new Employee()
                 {
                     Id = 1,
-                    FirstName = "Ravan",
-                    LastName = "Qanizade",
+                    Firstname = "Ravan",
+                    Lastname = "Qanizade",
                     CityId = 1,
                 },
                 new Employee()
                 {
                     Id = 2,
-                    FirstName = "Bayram",
-                    LastName = "Qurbanov",
+                    Firstname = "Bayram",
+                    Lastname = "Qurbanov",
                     CityId = 2,
                 },
                 new Employee()
                 {
                     Id = 3,
-                    FirstName = "Tofiq",
-                    LastName = "Cavadli",
+                    Firstname = "Tofiq",
+                    Lastname = "Cavadli",
                     CityId = 3,
                 },
 
@@ -58,22 +58,22 @@ namespace ActionResults.Controllers
                 new Employee()
                 {
                     Id = 1,
-                    FirstName = "Ravan",
-                    LastName = "Qanizade",
+                    Firstname = "Ravan",
+                    Lastname = "Qanizade",
                     CityId = 1,
                 },
                 new Employee()
                 {
                     Id = 2,
-                    FirstName = "Bayram",
-                    LastName = "Qurbanov",
+                    Firstname = "Bayram",
+                    Lastname = "Qurbanov",
                     CityId = 2,
                 },
                 new Employee()
                 {
                     Id = 3,
-                    FirstName = "Tofiq",
-                    LastName = "Cavadli",
+                    Firstname = "Tofiq",
+                    Lastname = "Cavadli",
                     CityId = 3,
                 },
 
@@ -127,22 +127,22 @@ namespace ActionResults.Controllers
             new Employee()
             {
                 Id = 1,
-                FirstName = "Ravan",
-                LastName = "Qanizade",
+                Firstname = "Ravan",
+                Lastname = "Qanizade",
                 CityId = 1,
             },
                 new Employee()
                 {
                     Id = 2,
-                    FirstName = "Bayram",
-                    LastName = "Qurbanov",
+                    Firstname = "Bayram",
+                    Lastname = "Qurbanov",
                     CityId = 2,
                 },
                 new Employee()
                 {
                     Id = 3,
-                    FirstName = "Tofiq",
-                    LastName = "Cavadli",
+                    Firstname = "Tofiq",
+                    Lastname = "Cavadli",
                     CityId = 3,
                 }
 
